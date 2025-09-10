@@ -1,0 +1,1 @@
+# Detective Novel Generator Package
